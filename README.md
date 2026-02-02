@@ -7,3 +7,12 @@ Features of the project:
 - Percentage contribution by product/category
 - Identification of high-performing and low-performing periods
 - A dashboard that is both interactive and easy to use
+
+Tools & Technologies:
+- Power BI
+- MySQL
+- Data Cleaning & Transformation
+- Microsoft Excel
+
+Objective:
+To convert raw sales data into meaningful insights that support data-driven business decisions.
